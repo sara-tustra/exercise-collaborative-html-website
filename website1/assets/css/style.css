@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: white;
 }
 .jumbotron {
     height: 600px;
@@ -11,6 +11,8 @@ body{
     padding-top: 50px;
 
 }
+
+
 /* .jumbotron .header-1 {
 margin-top: 10px;
 } */
